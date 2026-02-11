@@ -1,0 +1,4 @@
+- name: Install dependencies
+  run: |
+    cd scraper
+    npm install
