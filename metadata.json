@@ -1,0 +1,5 @@
+{
+  "name": "TalentMatch AI",
+  "description": "A recruitment platform that scrapes job listings and uses Gemini AI to rank and match candidates against job requirements.",
+  "requestFramePermissions": []
+}
